@@ -2,7 +2,7 @@ def user_word(word: str):
     """
 
     :param word:
-    :return: word.upper
+    :return: word.upper!!!
     """
     return word.upper()
 
